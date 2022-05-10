@@ -42,7 +42,7 @@ var aboutItems =
         <br>        
         Certificate of Amendment to our Articles of Incorporation with the State of Ohio changing our
         <br>
-        corporate name and principal office to pARIDise, Inc.; 2209 Front STreet, Cuyahoga Falls, Ohio.
+        corporate name and principal office to pARIDise, Inc.; 2209 Front Street, Cuyahoga Falls, Ohio.
         <br>
         The amendment was approved and filed by the Secretary of the State of Ohio on February 28,
         <br>
@@ -50,7 +50,7 @@ var aboutItems =
         <br>
         included among our club records. During the 1966 Founders Day Week-End, Bill Wilson, Co-
         <br>
-        Founder of Alcoholics Anonymous, congradulated the members on these fine facilities and was
+        Founder of Alcoholics Anonymous, congratulated the members on these fine facilities and was
         <br>
         speaker for our Friday Night meeting.
         </p>
