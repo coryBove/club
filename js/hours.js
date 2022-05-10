@@ -63,7 +63,7 @@ var hourItems =
         },     
         item5 : {
             name : "Wednesday Night Campfire (Temporarily Inactive) :",
-            time : "9:30 PM (Weather Pending)"
+            time : "9:30 PM (Outdoors, Weather Pending)"
         },
     },
     thursday : {
@@ -103,8 +103,8 @@ var hourItems =
             time : "7:00 PM"
         },
         item4 : {
-            name : "Saturday Campfire (Temporarily Inactive) :",
-            time : "9:00 PM (Weather Pending)"
+            name : "Saturday Campfire :",
+            time : "9:00 PM (Outdoors, Weather Pending)"
         },
     },
     bingo : {
